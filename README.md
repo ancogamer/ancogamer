@@ -10,7 +10,7 @@ https://www.instagram.com/joaovitorastori/
 https://www.linkedin.com/in/joao-vitor-astori-saletti/
 
 ## 
-https://miro.medium.com/max/384/1*8PJBsNzUNfg9HHzCLWDjKw.gif 
+![](https://miro.medium.com/max/384/1*8PJBsNzUNfg9HHzCLWDjKw.gif)
 Thanks to  Sharone Zitzman. and https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c
 
 
