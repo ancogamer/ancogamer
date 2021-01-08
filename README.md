@@ -2,7 +2,7 @@
 # João Vitor 
 @ancogamer
 Feel free to give a look around here :D 
-- 🌱 I’m currently learning GO lang ! :D 
+- 🌱 I’m currently playing with GO ! 
 
 
 
