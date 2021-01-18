@@ -14,7 +14,7 @@ GitHubStatus and Top Langs generate with https://github.com/anuraghazra/github-r
 Contact me here: 
 <!-- CONTACT-POST-LIST:START -->
 - [GitHub DM]()
-- [Linkedin](www.linkedin.com/in/joão-vitor-astori-saletti-----------2)
+- **[Linkedin](www.linkedin.com/in/joão-vitor-astori-saletti)**
 <!-- CONTACT-POST-LIST:END -->
 
 ## 
