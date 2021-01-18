@@ -3,11 +3,11 @@
 You can also find me by @ancogamer
 - Feel free to give a look around here :D 
 - 🌱 I’m currently playing with GO ! 
-
+<!-- Stats-POST-LIST:START -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ancogamer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancogamer&hide=TeX&layout=compact)
-<!-- Stats-POST-LIST:START -->
+
 GitHubStatus and Top Langs generate with https://github.com/anuraghazra/github-readme-stats, thanks folks <3
 <!-- Stats-POST-LIST:End -->
 
